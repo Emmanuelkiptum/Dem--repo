@@ -1,7 +1,2 @@
-# Dem--repo
-
-manu kipz 
-
-watch my all tutorials
-
-my repository
+#MY PORTFOLIO PROJECT FILES
+ #BY : EMMANUEL KIPTUM
